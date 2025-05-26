@@ -11,7 +11,7 @@ Start by forking the repository on GitHub.
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+git clone [https://github.com/Sajidkkhan/coursera_final.git]
 cd REPOSITORY_NAME
 3. Create a Branch
 Create a new branch for your contribution:
